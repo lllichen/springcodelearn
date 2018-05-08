@@ -1,0 +1,2 @@
+dubbo.impl.CustomHelloService
+dubbo.impl.DefaultHelloService
